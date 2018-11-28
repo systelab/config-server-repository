@@ -1,2 +1,2 @@
-# config-server-repository
-Repository for Configuration Server
+# Configuration Repository
+This is the configuration repository for the systelab/config-server.
