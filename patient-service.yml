@@ -1,0 +1,9 @@
+info:
+  app:
+    name: Patient Service
+    description: Patient Service Microservice
+    version: 1.0
+server:
+  port: 8080
+my:
+  otherprop: myotherval
